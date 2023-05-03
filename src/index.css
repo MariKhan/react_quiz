@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    font-family: 'Nunito', sans-serif;  
+    background-image:url('/public/img/bg.png');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  .App {
+    width: 500px;
+    border:solid 5px rgb(57, 52, 110);
+    padding: 40px;
+    background-color: #fff;
+    position: relative;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+
+  }

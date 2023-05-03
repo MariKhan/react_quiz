@@ -1,0 +1,33 @@
+.progress {
+  height: 10px;
+  border-radius: 30px;
+  background-color: #e8e8e8;
+  margin-bottom: 25px;
+}
+.inner {
+  height: 100%;
+  border-radius: 30px;
+  width: 80%;
+  transition: all 0.3s ease-in-out;
+  background: linear-gradient(to right, rgba(124,203,212,1) 0%, rgba(141,82,201,1) 100%) ;
+}
+  
+h1 {
+  margin: 0;
+}
+ul {
+  list-style: none;
+  padding: 0;
+}
+ul li {
+  padding: 15px;
+  border: 2px solid rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  transition: all 0.1s ease-in-out;
+}
+ul li:hover {
+  border: 2px solid rgba(0, 0, 0, 0.3);
+}
+  

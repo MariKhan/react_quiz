@@ -1,0 +1,30 @@
+.result {
+  border: 5px solid rgb(191, 198, 200);
+  margin: 0 auto;
+}
+
+.result {
+  text-align: center;
+}
+
+.result button {
+  font-weight: bold;
+  font-family: 'Nunito', sans-serif;
+  border-radius: 30px;
+  border: 0;
+  padding: 15px 30px;
+  font-size: 20px;
+  background-color: #488ACB;
+  color: #fff;
+  margin-top: 20px;
+  cursor: pointer;
+}
+
+.result h2 {
+  margin-bottom: 0;
+}
+
+/* .result img {
+  width: 250px;
+}
+ */
